@@ -1,0 +1,2 @@
+site pra otimizar imagens do site:
+tinypng.com
